@@ -1,3 +1,3 @@
 - 👋 Ola, meu nome é Rodrigo 
-- 👀 Sou professor o professor de tecnologia de vocês.
+- 👀 Sou o professor de tecnologia de vocês.
 - 🌱 vamos ao trabalho!!!
